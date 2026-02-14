@@ -1,3 +1,37 @@
-body {
-    background-image: url(/img/images.webp);
+#Titulo {
+    color: tomato;
 }
+p.especial {
+    color: mediumseagreen;
+}
+p.texto{
+    color: slateblue;
+}
+
+div p {
+    color: aquamarine;
+}
+
+div h2 , div h3 {
+    color: brown    ;
+}
+
+*{
+    font-size: 24px;
+    color: black;
+}
+
+/* esto es un comentario :p */
+
+.color {
+    color: rgb(0, 255, 255)
+}
+
+.TRYHARD {
+    color: rgb(30, 255, 0)
+}
+
+.morse {
+    color: orangered    ;
+}
+
